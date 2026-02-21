@@ -2,8 +2,7 @@
 
 I’m Alka Devii — a passionate developer exploring web development, problem solving, and creative tech projects.
 
-![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/7ee669fc-a0f4-4a36-985f-fba6e68a0414)
-
+<img src="https://github.com/user-attachments/assets/7ee669fc-a0f4-4a36-985f-fba6e68a0414" width="250" />
 
 ---
 
